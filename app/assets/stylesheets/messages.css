@@ -41,11 +41,11 @@
   overflow: scroll;
 }
 
-li {
+.room-name {
   margin: 0 0 60px 20px;
 }
 
-li a {
+.room-name a {
   text-decoration: none;
   color: #FAFAFA;
 }
